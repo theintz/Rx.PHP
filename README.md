@@ -22,3 +22,5 @@ Have fun running the demos in `/demo`.
 [rxphp-chat], a demo chat application using Rx.PHP.
 
 [rxphp-chat]: https://github.com/asm89/rxphp-chat
+
+This line will be deleted soon.
