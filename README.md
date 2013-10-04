@@ -24,4 +24,3 @@ Have fun running the demos in `/demo`.
 [rxphp-chat]: https://github.com/asm89/rxphp-chat
 
 This line will be deleted soon.
-And so will this one.
